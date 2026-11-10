@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shopman.MemberValidationTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.449 s -- in com.shopman.MemberValidationTest
