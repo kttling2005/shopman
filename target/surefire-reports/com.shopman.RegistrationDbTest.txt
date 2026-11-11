@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.shopman.RegistrationDbTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.005 s -- in com.shopman.RegistrationDbTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 6, Time elapsed: 0.003 s -- in com.shopman.RegistrationDbTest

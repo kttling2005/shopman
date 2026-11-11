@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.shopman.RevenueStatisticsDbTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.035 s -- in com.shopman.RevenueStatisticsDbTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 10, Time elapsed: 0.036 s -- in com.shopman.RevenueStatisticsDbTest
